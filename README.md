@@ -1,7 +1,7 @@
 # Image_Processing-Filters-Python
 Smoothing, Sharpening, High-Pass Filter, Low-Pass Filter (Image Processing)
 
-
+Question 1:
 Implement the histogram smoothing algorithm. Your function should take as input the gray scaled image and
 the value of K. The function should output the histogram of the image before smoothing and after smoothing.
 Apply your function to the image “Sphinx.png”.
@@ -11,6 +11,7 @@ A plot of the histogram before smoothing for both values of K. Name the plot “
 A plot of the histogram after smoothing for both values of K. Name the plot “After_Smoothing.jpg”.
 
 
+Question 2:
 Implement a function that applies a low-pass, a high-pass and a bandpass filter to an input gray-scale image.
 Your low-pass filter should be the Butterworth filter, your high-pass filter should be the Gaussian filter and
 your bandpass filter should use both. Implement a function for every filter.
