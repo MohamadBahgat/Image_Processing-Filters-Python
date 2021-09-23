@@ -1,4 +1,4 @@
-# Image_Processing-Filters-Python
+# Image_Processing-Filters-Python (Worked on it alone)
 Smoothing, Sharpening, High-Pass Filter, Low-Pass Filter (Image Processing)
 
 Question 1:
